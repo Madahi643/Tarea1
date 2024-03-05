@@ -4,4 +4,4 @@ if __name__ == '__main__':
         for i in range(n):
             Prueba1 Pruebas
               Prueba 2 Pruebas
-                Prueba3 Pruebas
+                Prueba3 Prueba
