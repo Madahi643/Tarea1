@@ -1,5 +1,5 @@
 def mutate_string(string, position, character):Modificacion
-    z=list(string)
+    z=list(string)Modificaciones2
     z[position]=character
     a=''.join(z)
     
